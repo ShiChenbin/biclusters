@@ -1,5 +1,4 @@
-# 双聚类算法-FABIA
-[toc]()
+# 双聚类算法-FABIA  
 ##前提
 1.Rstdio 的下载和安装  
 R version >= 4.0.0.
