@@ -6,5 +6,11 @@
 因为一些内容baidu、google上也没有或者描述的特别清晰，所以个人认为该project还是十分有必要的。
 
 ## 列表解释
-
-R-img  R-相关图片
+ - README.md
+ - R-img  R-相关图片
+ - QUBIC(BicatYeast)-img BicatYeast数据集运行QUBIC图片
+ - QUBIC-img QUBIC样例运行图片
+ - FABIA_learn.md FABIA样例运行说明文档
+ - QUBIC(BicatYeast).md BicatYeast在QUBIC下的说明文档
+ - QUBIC-学习使用文档.md
+ - 信息收集.doc 2020.07.17第一次上传
